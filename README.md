@@ -1,4 +1,4 @@
-# System partition specs
+## System partition specs
 
 120GB
 
