@@ -1,8 +1,6 @@
-# system-partition
+# System partition specs
 
-system partition 
-
-120-GB
+120GB
 
 1. 100mb = EFI(/boot/efi)
 2. 30gb = Root(/)
